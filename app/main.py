@@ -24,4 +24,4 @@ app.include_router(vote.router)
 
 @app.get("/")
 def Home():
-    return {"data": "Hello Mango man"}
+    return {"data": "Hello Mangoos mannnnn man"}
